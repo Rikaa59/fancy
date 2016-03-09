@@ -13,6 +13,7 @@ body{
 {
 border-radius: 4px;
 background-color: white;
+padding:10px;
 }
 
 #interieure{
@@ -21,4 +22,30 @@ margin : 0 auto;
 }
 strong{
 	color: gray;
+}
+
+.barnav .btn{
+	background:none;
+	color:#fff;
+	border:none;
+}
+.barnav .nav-pills a{
+	color: white;
+}
+.nav-pills{
+	width:970px;
+	margin:0 auto;
+}
+
+.btn btn-default{
+	margin-left: 15px;
+	margin-right: 15px;
+}
+.row{
+
+	margin:0 auto;	
+}
+
+.paragraphe{
+text-align: left;
 }
